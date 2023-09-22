@@ -6,17 +6,19 @@ entries:
     entries:
       - title: about me
         url: /about
+      - title: github
+        url: https://github.com/joshua-kim
 
-  - title: posts
+  - title: tech
     post_list:
-      limit: 5
+      category: tech
       show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html
 
-        #  - title: posts by category
-        #    post_list:
-        #      category: example2
-        #      show_more: true
-        #      show_more_text: See more posts...
-        #      show_more_url: example2-archive.html
+  - title: random
+    post_list:
+      category: random
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html

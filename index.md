@@ -5,7 +5,3 @@
 layout: home
 ---
 
-# Hello, World.
-Hello.
-
-This is my blog where I post random thoughts.
